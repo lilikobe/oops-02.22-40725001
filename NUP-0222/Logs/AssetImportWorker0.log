@@ -1,0 +1,494 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'zh' Physical Memory: 16217 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Desktop/oops-02.22-40725001/NUP-0222
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+2709
+Successfully changed project path to: C:/Users/user/Desktop/oops-02.22-40725001/NUP-0222
+C:/Users/user/Desktop/oops-02.22-40725001/NUP-0222
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/oops-02.22-40725001/NUP-0222/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004059 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 54.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.529 seconds
+Domain Reload Profiling:
+	ReloadAssembly (529ms)
+		BeginReloadAssembly (61ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (396ms)
+			LoadAssemblies (58ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (121ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (156ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (55ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (67ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005887 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.976 seconds
+Domain Reload Profiling:
+	ReloadAssembly (977ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (778ms)
+			LoadAssemblies (100ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (246ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (299ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (154ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2194 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 2.269300 ms (FindLiveObjects: 0.137000 ms CreateObjectMapping: 0.066200 ms MarkObjects: 2.018700 ms  DeleteObjects: 0.046600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Small Forest Asset Pack/Grass/Grass-1.png
+  artifactKey: Guid(03e786fe460885646b886db0981f12c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Grass/Grass-1.png using Guid(03e786fe460885646b886db0981f12c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652346a9e318391a5b1a0c21d78ebcfe') in 0.122414 seconds 
+  Import took 0.124990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Small Forest Asset Pack/Ground tileset/Earth-tileset.png
+  artifactKey: Guid(5799c4117e25a5b4b89e59308c4dcbbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Ground tileset/Earth-tileset.png using Guid(5799c4117e25a5b4b89e59308c4dcbbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53576a5fac76ac976ef64640b0fe900a') in 0.011790 seconds 
+  Import took 0.014227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Small Forest Asset Pack/Sculptures/Sculture-2.png
+  artifactKey: Guid(84b99055c4954b4459fd9638c714ea8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Sculptures/Sculture-2.png using Guid(84b99055c4954b4459fd9638c714ea8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036525b8b8a409a0611bb4af80523840') in 0.014146 seconds 
+  Import took 0.016575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Small Forest Asset Pack/Ground tileset/Stone-path-tileset-horizontal.png
+  artifactKey: Guid(659f11ee196361845a85bae67a400605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Ground tileset/Stone-path-tileset-horizontal.png using Guid(659f11ee196361845a85bae67a400605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f9c3a8c6c0f26f48d7b7f502c4030bf') in 0.014551 seconds 
+  Import took 0.016992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Small Forest Asset Pack/Grass/Grass-2.png
+  artifactKey: Guid(e35aad9156c96e040b414f6c94be1e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Grass/Grass-2.png using Guid(e35aad9156c96e040b414f6c94be1e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144f94eb59e1f036f33d76868775ebcb') in 0.013535 seconds 
+  Import took 0.015942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Small Forest Asset Pack/Stones/Stone-2.png
+  artifactKey: Guid(abdc07637cf56f241a9290838d9de5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Stones/Stone-2.png using Guid(abdc07637cf56f241a9290838d9de5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3875f3cf0633daa5c90671f0590b2bec') in 0.013626 seconds 
+  Import took 0.016029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Small Forest Asset Pack/Ground tileset/Dark-grass-tileset.png
+  artifactKey: Guid(ecc9e12469b31f94ab3512bebe09150f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Ground tileset/Dark-grass-tileset.png using Guid(ecc9e12469b31f94ab3512bebe09150f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31f0c04e104014625b0a9d6ef216550') in 0.015741 seconds 
+  Import took 0.018278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Small Forest Asset Pack/Stones/Stone-1.png
+  artifactKey: Guid(c892ba3e108308a4591ec63ec2323dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Stones/Stone-1.png using Guid(c892ba3e108308a4591ec63ec2323dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92dd4b110a0350b64e5e2654dc597737') in 0.009426 seconds 
+  Import took 0.012166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Small Forest Asset Pack/Ground tileset/Stone-path-tileset-vertical.png
+  artifactKey: Guid(c18e21b0fd7817146a5206cded8de72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Ground tileset/Stone-path-tileset-vertical.png using Guid(c18e21b0fd7817146a5206cded8de72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e20683d38efe1b24f3ff1ef0846472a') in 0.015804 seconds 
+  Import took 0.018278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Small Forest Asset Pack/Sculptures/Sculpture-1.png
+  artifactKey: Guid(102969f6650195b48a34bf052309f3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Sculptures/Sculpture-1.png using Guid(102969f6650195b48a34bf052309f3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aee6696e4548a35978807bac6561d86') in 0.013984 seconds 
+  Import took 0.016369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Small Forest Asset Pack/Ground tileset/Bright-grass-tileset.png
+  artifactKey: Guid(0cebca54842a5cd41bf1d6145262602a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Ground tileset/Bright-grass-tileset.png using Guid(0cebca54842a5cd41bf1d6145262602a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949810a401cc4efa7cce2188fccb27d2') in 0.015125 seconds 
+  Import took 0.017573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.273233 seconds.
+  path: Assets/Small Forest Asset Pack/Flowers/Flower-1.png
+  artifactKey: Guid(5541fca1dad01dd46a0a85f9e0b8f8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Flowers/Flower-1.png using Guid(5541fca1dad01dd46a0a85f9e0b8f8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9433e6fd82f8bec254a219a966eb2be') in 0.009501 seconds 
+  Import took 0.012882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Small Forest Asset Pack/Flowers/Flower-2.png
+  artifactKey: Guid(f978a3c96e0f1064b8441cd222ad0f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Flowers/Flower-2.png using Guid(f978a3c96e0f1064b8441cd222ad0f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3318337e76061545207c2c6c6c3c4e') in 0.011285 seconds 
+  Import took 0.013949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Small Forest Asset Pack/Flowers/Flower-3.png
+  artifactKey: Guid(a040245e2abd70948a9e58ff0f2dbc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Flowers/Flower-3.png using Guid(a040245e2abd70948a9e58ff0f2dbc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d9a97431e5e4f2a333dff54c7ebfe2') in 0.009271 seconds 
+  Import took 0.012127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.431916 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-1.png
+  artifactKey: Guid(0c05bd21923f9314991ad5bf0d4690d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-1.png using Guid(0c05bd21923f9314991ad5bf0d4690d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18fd59113dadcff8c644d5c4434ea322') in 0.007567 seconds 
+  Import took 0.010630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-2.png
+  artifactKey: Guid(0d03646538cf8c3429ed0bd3b3479a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-2.png using Guid(0d03646538cf8c3429ed0bd3b3479a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237d4d9991eb031af67d214fe67dec79') in 0.009042 seconds 
+  Import took 0.011454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-3.png
+  artifactKey: Guid(5341a0fd52dca394bb67508f009cecef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-3.png using Guid(5341a0fd52dca394bb67508f009cecef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9904095d6ffcc5118c091485255779e3') in 0.006892 seconds 
+  Import took 0.009430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-4.png
+  artifactKey: Guid(665b8926e8db0cd46babe97eb2d24d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Wooden fence/Wooden-fence-4.png using Guid(665b8926e8db0cd46babe97eb2d24d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910d50b60223c226eaa18b312836033c') in 0.006840 seconds 
+  Import took 0.009555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.598463 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-1.png
+  artifactKey: Guid(0e82a734af1076f408356c18531724a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-1.png using Guid(0e82a734af1076f408356c18531724a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8142aabd61b7ccace3c86b58d1dc81a9') in 0.007425 seconds 
+  Import took 0.010496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-3.png
+  artifactKey: Guid(38c8ea0b320919947a0e47e9930d9b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-3.png using Guid(38c8ea0b320919947a0e47e9930d9b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d6e639fdcab3ca86a429455ce358c8') in 0.007881 seconds 
+  Import took 0.010436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-2.png
+  artifactKey: Guid(d284e39c809bef748b2b59e227726b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-2.png using Guid(d284e39c809bef748b2b59e227726b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe14d054ed080be862c62398a29e759b') in 0.008057 seconds 
+  Import took 0.010726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-4.png
+  artifactKey: Guid(93ea330dba0968a4980581d661f7035c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Stone fence/Stone-fence-4.png using Guid(93ea330dba0968a4980581d661f7035c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243d28db7469a05f19f39b614bbe5ad5') in 0.008461 seconds 
+  Import took 0.011740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.795397 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-1.png
+  artifactKey: Guid(613c77f7cf7602e40a8126033dc3775b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-1.png using Guid(613c77f7cf7602e40a8126033dc3775b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904de27d96cb9967a44bc5e84db72ae4') in 0.007558 seconds 
+  Import took 0.010569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-2.png
+  artifactKey: Guid(c523b92444ccf3444ba9095746940696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-2.png using Guid(c523b92444ccf3444ba9095746940696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6029d5c2d09d8df7443831f80690a37b') in 0.008589 seconds 
+  Import took 0.011174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-3.png
+  artifactKey: Guid(a286dd6e796038c4b8910f68b79bcd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-3.png using Guid(a286dd6e796038c4b8910f68b79bcd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6d00b40e7762d35e8eb78c317719bc') in 0.008169 seconds 
+  Import took 0.010798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-4.png
+  artifactKey: Guid(3e58ab0583ad8d347ab4e53601d254f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Fences/Big wooden fence/Big-wooden-fence-4.png using Guid(3e58ab0583ad8d347ab4e53601d254f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ced83e9546f846b4efe0318f084e4d6') in 0.007607 seconds 
+  Import took 0.010641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.163687 seconds.
+  path: Assets/Small Forest Asset Pack/Bench and chest/Bench.png
+  artifactKey: Guid(9db1ef61bd05d6e49b5e5a798bf57a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Bench and chest/Bench.png using Guid(9db1ef61bd05d6e49b5e5a798bf57a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb22dfe0863ba8955d9e805f77735b7d') in 0.008139 seconds 
+  Import took 0.011200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Small Forest Asset Pack/Bench and chest/Chest.png
+  artifactKey: Guid(df507cf0c42f50d44b390fc542185f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Bench and chest/Chest.png using Guid(df507cf0c42f50d44b390fc542185f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31a570df40cbd01167874ea448e15088') in 0.008041 seconds 
+  Import took 0.010443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.194506 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-1.png
+  artifactKey: Guid(ceb6c4c1cfebb8447b80a67879de7db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-1.png using Guid(ceb6c4c1cfebb8447b80a67879de7db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5947d41fe98e0d607e283c8510979494') in 0.009919 seconds 
+  Import took 0.012915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-2.png
+  artifactKey: Guid(2bdefb5ba95a72c4ebceaba297a20f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-2.png using Guid(2bdefb5ba95a72c4ebceaba297a20f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9dae704e2810b8b603af2f4a0543b35') in 0.012324 seconds 
+  Import took 0.014838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-4.png
+  artifactKey: Guid(126bcd83aa3814f46b0b4d0e3d7ad081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-4.png using Guid(126bcd83aa3814f46b0b4d0e3d7ad081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd783e3c365ca84dde9bcb41de47d4bad') in 0.015704 seconds 
+  Import took 0.018342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-3.png
+  artifactKey: Guid(6baae591782e47445b4ac85a66b60232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-3/Tree-3-3.png using Guid(6baae591782e47445b4ac85a66b60232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093846a009ae07eab7ef95894a944b61') in 0.016902 seconds 
+  Import took 0.019678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.364897 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-1.png
+  artifactKey: Guid(6b541bd6916c0cd4fa235161b292b225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-1.png using Guid(6b541bd6916c0cd4fa235161b292b225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada2e1e435517f4cb2b3b6fee453fe98') in 0.013041 seconds 
+  Import took 0.015752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-4.png
+  artifactKey: Guid(bdb64eae741998747a75c9400e927de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-4.png using Guid(bdb64eae741998747a75c9400e927de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b230bc8f1f5ac2290abc83834aef854') in 0.014672 seconds 
+  Import took 0.017130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-3.png
+  artifactKey: Guid(a624f2d1b068ba940a43fd1fa0cda16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-3.png using Guid(a624f2d1b068ba940a43fd1fa0cda16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1ea79d2f586781e45f5a2ea9fd9b3a') in 0.009579 seconds 
+  Import took 0.012114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-2.png
+  artifactKey: Guid(1a3eaefdfaaae4c448c55ec82f76dcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-2/Tree-2-2.png using Guid(1a3eaefdfaaae4c448c55ec82f76dcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc185ae441ecfc7d1f1258340ffaca0c') in 0.006873 seconds 
+  Import took 0.009706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.272437 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-1.png
+  artifactKey: Guid(333cccd08f5777c4589ea16e137cbfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-1.png using Guid(333cccd08f5777c4589ea16e137cbfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '939bb0e28405f414705362ba4ae8d9da') in 0.006938 seconds 
+  Import took 0.009943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-4.png
+  artifactKey: Guid(2d7ddb07c745cb246a494d4ebe77d1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-4.png using Guid(2d7ddb07c745cb246a494d4ebe77d1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b616ced6a115113edfd58bbdcf224427') in 0.009506 seconds 
+  Import took 0.012039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-3.png
+  artifactKey: Guid(cb7c7e5987e4a654fa5fa7fb1cfcc50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-3.png using Guid(cb7c7e5987e4a654fa5fa7fb1cfcc50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3edf9e0ab541e1fe9702e7961b886dfd') in 0.011360 seconds 
+  Import took 0.014170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-2.png
+  artifactKey: Guid(1d62076a8aba6e84998d64afdc3c2abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Trees/Tree-1/Tree-1-2.png using Guid(1d62076a8aba6e84998d64afdc3c2abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89174d85e13b8aacb32e6daeda5b791') in 0.007514 seconds 
+  Import took 0.010856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.328260 seconds.
+  path: Assets/Small Forest Asset Pack/Bushes/Bush-1.png
+  artifactKey: Guid(a6cf0ec0b2683584b93ba1339f8f50e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Bushes/Bush-1.png using Guid(a6cf0ec0b2683584b93ba1339f8f50e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bacd69a2f7a56799bd6578dffe394cb4') in 0.010804 seconds 
+  Import took 0.013793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Small Forest Asset Pack/Bushes/Bush-3.png
+  artifactKey: Guid(bea17a86d81423b499529f583152f72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Bushes/Bush-3.png using Guid(bea17a86d81423b499529f583152f72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f41b04607d2d053cf8f629d402e6aa7') in 0.014730 seconds 
+  Import took 0.017200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Small Forest Asset Pack/Bushes/Stump.png
+  artifactKey: Guid(14464f83a7b843d4d9c55f5879302d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Bushes/Stump.png using Guid(14464f83a7b843d4d9c55f5879302d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39cdd5ce9a367e10bd21a8dcace15b95') in 0.026524 seconds 
+  Import took 0.029159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Small Forest Asset Pack/Bushes/Bush-4.png
+  artifactKey: Guid(405b21c23840b674daa0738d94caa33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Bushes/Bush-4.png using Guid(405b21c23840b674daa0738d94caa33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed00a09834f2a5db8f05649a833a289') in 0.013955 seconds 
+  Import took 0.016539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Small Forest Asset Pack/Bushes/Bush-2.png
+  artifactKey: Guid(04ff0f6fbc02db540ac5b1bee20ccfca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Forest Asset Pack/Bushes/Bush-2.png using Guid(04ff0f6fbc02db540ac5b1bee20ccfca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6348f566de2167e39c8c4905e514a1f3') in 0.007278 seconds 
+  Import took 0.009964 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
